@@ -1,8 +1,8 @@
-# Proyecto: **Escape from Isla Prehistórica**
+# Proyecto: **Haría Island**
 
 ## Descripción
 
-**Escape from Isla Prehistórica** es un juego 3D de aventura en el que los estudiantes de un instituto se ven teletransportados junto a su instituto a una isla misteriosa habitada por dinosaurios. El objetivo principal es explorar la isla, recoger objetos esenciales y encontrar una forma de regresar el instituto antes de que sea demasiado tarde.
+**Haría Island** es un juego 3D de aventura en el que los estudiantes de un instituto se ven teletransportados junto a su instituto a una isla misteriosa habitada por dinosaurios. El objetivo principal es explorar la isla, recoger objetos esenciales y encontrar una forma de regresar el instituto antes de que sea demasiado tarde.
 
 ---
 
